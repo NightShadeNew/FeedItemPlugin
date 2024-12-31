@@ -1,0 +1,4 @@
+name: FeedItems
+version: '${project.version}'
+main: org.example1.feeditems.FeedItems
+api-version: '1.16'
